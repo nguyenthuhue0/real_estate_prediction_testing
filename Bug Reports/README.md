@@ -2,7 +2,7 @@
 
 This folder contains all defects identified during manual testing of the **Real Estate Prediction System**.
 
-## Bug List
+## Bug List 
 
 | Bug ID | Related Test Case | Module | Severity | Status |
 |---------|-------------------|---------|----------|--------|
