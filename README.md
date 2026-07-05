@@ -1,7 +1,6 @@
 # 🏠 Real Estate Prediction Testing Portfolio
 
 A Software Testing portfolio project demonstrating the complete Software Testing Life Cycle (STLC) for a Real Estate Prediction web application.
-![Jira](https://nguyenthuhuevku.atlassian.net/jira/software/projects/REPT/summary?atlOrigin=eyJpIjoiZjdiNzNjMWVkMDA4NDIyMjg4MWNkMzM4NGFmNjc5YTciLCJwIjoiaiJ9)
 
 
 This repository showcases manual testing skills including:
