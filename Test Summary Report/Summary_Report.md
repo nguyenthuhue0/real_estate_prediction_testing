@@ -9,7 +9,7 @@
 | Version | 1.0 |
 | Tester | Nguyen Thu Hue |
 | Test Type | Manual Functional Testing |
-| Methodology | Agile Scrum |
+| Methodology | Agile Scrum |   
 | Test Period | July 2026 |
 | Test Environment | Google Chrome 138 on macOS Sequoia |
 
