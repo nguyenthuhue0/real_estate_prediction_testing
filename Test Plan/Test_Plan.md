@@ -9,7 +9,7 @@
 | Prepared By | Nguyen Thu Hue |
 | Test Type | Manual Functional Testing |
 | Methodology | Agile Scrum |
-| Date | July 2026 |  
+| Date | July 2026 |
 
 ---
 
